@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v2.7.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v2.7.0-rc1), 2 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v2.7.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v2.7.0-rc1), 3 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([samba-native-php7.3-1](https://github.com/nextcloud/docker-ci/releases/tag/samba-native-php7.3-1), 4 months ago) - :package: Containers used for Continous Integration jobs (automated testing)
 
 #### 🌱 Latest GitHub repositories I created (they're generally mirrors)
@@ -17,7 +17,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [KF6 Progress Report: Almost Bastille Day (July) Edition](https://ervin.ipsquad.net/blog/2020/07/12/kf6-progress-report-almost-bastille-day-edition/) (2 weeks ago)
+- [KF6 Progress Report: Almost Bastille Day (July) Edition](https://ervin.ipsquad.net/blog/2020/07/12/kf6-progress-report-almost-bastille-day-edition/) (3 weeks ago)
 - [Selecting a Software Component Through Community Analytics](https://ervin.ipsquad.net/blog/2020/04/20/selecting-software-component-through-community-analytics/) (3 months ago)
 - [KF6 Progress Report: February Edition](https://ervin.ipsquad.net/blog/2020/02/29/kf6-progress-report-february-edition/) (5 months ago)
 - [Guest Post: Current State of ComDaAn: Community Data Analytics, by Christelle Zouein](https://ervin.ipsquad.net/blog/2020/01/28/christelle-zouein-current-state-of-comdaan/) (6 months ago)
