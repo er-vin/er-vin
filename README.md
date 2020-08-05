@@ -9,11 +9,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v2.7.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v2.7.0-rc1), 6 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([samba-native-php7.3-1](https://github.com/nextcloud/docker-ci/releases/tag/samba-native-php7.3-1), 4 months ago) - :package: Containers used for Continous Integration jobs (automated testing)
 
-#### 🌱 Latest GitHub repositories I created (they're generally mirrors)
+#### 🌱 What I'm currently working on
 
-- [er-vin/miix_fnfix](https://github.com/er-vin/miix_fnfix) - This is a mirror of https://framagit.org/ervin/miix_fnfix
-- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn
-- [er-vin/jekyll-slides](https://github.com/er-vin/jekyll-slides) - This is a mirror of https://framagit.org/ervin/jekyll-slides
+- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) - :package: Containers used for Continous Integration jobs (automated testing) (today)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 day ago)
+- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (2 months ago)
+- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (3 months ago)
 
 #### 📜 My recent blog posts
 
