@@ -9,9 +9,9 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🌱 Latest GitHub repositories I created (they're generally mirrors)
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+#### 🌱 What I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 📜 My recent blog posts
