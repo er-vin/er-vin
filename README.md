@@ -18,7 +18,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Sketchnotes at FOSDEM 2020](https://ervin.ipsquad.net/blog/2020/08/14/sketchnotes-at-fosdem-2020/) (1 week ago)
+- [Sketchnotes at FOSDEM 2020](https://ervin.ipsquad.net/blog/2020/08/14/sketchnotes-at-fosdem-2020/) (2 weeks ago)
 - [KF6 Progress Report: Almost Bastille Day (July) Edition](https://ervin.ipsquad.net/blog/2020/07/12/kf6-progress-report-almost-bastille-day-edition/) (1 month ago)
 - [Selecting a Software Component Through Community Analytics](https://ervin.ipsquad.net/blog/2020/04/20/selecting-software-component-through-community-analytics/) (4 months ago)
 - [KF6 Progress Report: February Edition](https://ervin.ipsquad.net/blog/2020/02/29/kf6-progress-report-february-edition/) (6 months ago)
