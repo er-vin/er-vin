@@ -6,12 +6,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 1 week ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), 4 weeks ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([server-21](https://github.com/nextcloud/docker-ci/releases/tag/server-21), 2 weeks ago) - :package: Containers used for Continous Integration jobs (automated testing)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.2](https://github.com/nextcloud/desktop/releases/tag/v3.0.2), 1 month ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 day ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (2 days ago)
 - [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (2 weeks ago)
 - [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (1 month ago)
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) - :package: Containers used for Continous Integration jobs (automated testing) (1 month ago)
@@ -23,7 +23,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KF6 Progress Report: Almost Bastille Day (July) Edition](https://ervin.ipsquad.net/blog/2020/07/12/kf6-progress-report-almost-bastille-day-edition/) (3 months ago)
 - [Selecting a Software Component Through Community Analytics](https://ervin.ipsquad.net/blog/2020/04/20/selecting-software-component-through-community-analytics/) (6 months ago)
 - [KF6 Progress Report: February Edition](https://ervin.ipsquad.net/blog/2020/02/29/kf6-progress-report-february-edition/) (7 months ago)
-- [Guest Post: Current State of ComDaAn: Community Data Analytics, by Christelle Zouein](https://ervin.ipsquad.net/blog/2020/01/28/christelle-zouein-current-state-of-comdaan/) (8 months ago)
+- [Guest Post: Current State of ComDaAn: Community Data Analytics, by Christelle Zouein](https://ervin.ipsquad.net/blog/2020/01/28/christelle-zouein-current-state-of-comdaan/) (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
