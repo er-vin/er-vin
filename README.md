@@ -11,7 +11,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (2 days ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (today)
 - [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (4 days ago)
 - [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (3 weeks ago)
 - [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (1 month ago)
