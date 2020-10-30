@@ -6,6 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.0.3](https://github.com/nextcloud/desktop/releases/tag/v3.0.3), today) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 1 day ago) - :package: Containers used for Continous Integration jobs (automated testing)
 
 #### 🌱 What I'm currently working on
