@@ -6,13 +6,13 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0](https://github.com/nextcloud/desktop/releases/tag/v3.1.0), 1 day ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.0](https://github.com/nextcloud/desktop/releases/tag/v3.1.0), 2 days ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 1 month ago) - :package: Containers used for Continous Integration jobs (automated testing)
 
 #### 🌱 What I'm currently working on
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (today)
-- [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (6 days ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 day ago)
+- [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (1 week ago)
 - [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (1 month ago)
 - [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (1 month ago)
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) - :package: Containers used for Continous Integration jobs (automated testing) (3 months ago)
@@ -22,7 +22,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [News from KDE PIM in September-October 2020](https://ervin.ipsquad.net/blog/2020/11/01/news-from-kde-pim-in-september-october-2020/) (1 month ago)
 - [Sketchnotes at FOSDEM 2020](https://ervin.ipsquad.net/blog/2020/08/14/sketchnotes-at-fosdem-2020/) (4 months ago)
 - [KF6 Progress Report: Almost Bastille Day (July) Edition](https://ervin.ipsquad.net/blog/2020/07/12/kf6-progress-report-almost-bastille-day-edition/) (5 months ago)
-- [Selecting a Software Component Through Community Analytics](https://ervin.ipsquad.net/blog/2020/04/20/selecting-software-component-through-community-analytics/) (7 months ago)
+- [Selecting a Software Component Through Community Analytics](https://ervin.ipsquad.net/blog/2020/04/20/selecting-software-component-through-community-analytics/) (8 months ago)
 - [KF6 Progress Report: February Edition](https://ervin.ipsquad.net/blog/2020/02/29/kf6-progress-report-february-edition/) (9 months ago)
 
 #### 👯 Check out some of my recent followers
