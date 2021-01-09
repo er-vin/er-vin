@@ -8,6 +8,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 2 months ago) - :package: Containers used for Continous Integration jobs (automated testing)
+- [getzola/zola](https://github.com/getzola/zola) ([v0.12.2](https://github.com/getzola/zola/releases/tag/v0.12.2), 3 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 #### 🌱 What I'm currently working on
 
@@ -15,7 +16,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (4 days ago)
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website (2 weeks ago)
 - [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (2 weeks ago)
-- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (2 months ago)
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (1 month ago)
 
 #### 📜 My recent blog posts
 
