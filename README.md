@@ -6,9 +6,9 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
+- [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), today) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.1](https://github.com/nextcloud/desktop/releases/tag/v3.1.1), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 2 months ago) - :package: Containers used for Continous Integration jobs (automated testing)
-- [getzola/zola](https://github.com/getzola/zola) ([v0.12.2](https://github.com/getzola/zola/releases/tag/v0.12.2), 3 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 #### 🌱 What I'm currently working on
 
