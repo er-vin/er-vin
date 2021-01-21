@@ -12,8 +12,8 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (today)
-- [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (6 days ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 day ago)
+- [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (1 week ago)
 - [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (1 week ago)
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website (4 weeks ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (1 month ago)
