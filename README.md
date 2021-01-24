@@ -12,7 +12,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (2 days ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 days ago)
 - [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (1 week ago)
 - [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (1 week ago)
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website (1 month ago)
@@ -24,7 +24,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [Sketchnotes at FOSDEM 2020](https://ervin.ipsquad.net/blog/2020/08/14/sketchnotes-at-fosdem-2020/) (5 months ago)
 - [KF6 Progress Report: Almost Bastille Day (July) Edition](https://ervin.ipsquad.net/blog/2020/07/12/kf6-progress-report-almost-bastille-day-edition/) (6 months ago)
 - [Selecting a Software Component Through Community Analytics](https://ervin.ipsquad.net/blog/2020/04/20/selecting-software-component-through-community-analytics/) (9 months ago)
-- [KF6 Progress Report: February Edition](https://ervin.ipsquad.net/blog/2020/02/29/kf6-progress-report-february-edition/) (10 months ago)
+- [KF6 Progress Report: February Edition](https://ervin.ipsquad.net/blog/2020/02/29/kf6-progress-report-february-edition/) (11 months ago)
 
 #### 👯 Check out some of my recent followers
 
