@@ -6,14 +6,14 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.2](https://github.com/nextcloud/desktop/releases/tag/v3.1.2), 1 week ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.2](https://github.com/nextcloud/desktop/releases/tag/v3.1.2), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), 1 month ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [nextcloud/docker-ci](https://github.com/nextcloud/docker-ci) ([android-60](https://github.com/nextcloud/docker-ci/releases/tag/android-60), 3 months ago) - :package: Containers used for Continous Integration jobs (automated testing)
 
 #### 🌱 What I'm currently working on
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (6 days ago)
-- [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (1 week ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 week ago)
+- [nextcloud/client_updater_server](https://github.com/nextcloud/client_updater_server) - 🔂 The client updater server informs clients about new updates (2 weeks ago)
 - [nextcloud/client-building](https://github.com/nextcloud/client-building) - 🏗 Build scripts for the desktop client (2 weeks ago)
 - [nextcloud/nextcloud.com](https://github.com/nextcloud/nextcloud.com) - 🌏 Our website (1 month ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (2 months ago)
