@@ -28,11 +28,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 👯 Check out some of my recent followers
 
+- [damdam41](https://github.com/damdam41)
 - [jvhoffbauer](https://github.com/jvhoffbauer)
 - [phoebusg](https://github.com/phoebusg)
 - [PraMiD](https://github.com/PraMiD)
 - [muesli](https://github.com/muesli)
-- [ChristophWurst](https://github.com/ChristophWurst)
 
 #### 📫 How to reach me
 
