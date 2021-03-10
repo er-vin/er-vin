@@ -6,7 +6,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.1.3](https://github.com/nextcloud/desktop/releases/tag/v3.1.3), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), 2 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 #### 🌱 What I'm currently working on
