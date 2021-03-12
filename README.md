@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc1), today) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc1), 1 day ago) - 💻 Desktop sync client for Nextcloud
 - [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), 2 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 #### 🌱 What I'm currently working on
@@ -18,11 +18,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2021-09](https://ervin.ipsquad.net/blog/2021/03/05/web-review-week-2021-09/) (6 days ago)
+- [Web Review, Week 2021-09](https://ervin.ipsquad.net/blog/2021/03/05/web-review-week-2021-09/) (1 week ago)
 - [Web Review, Week 2021-08](https://ervin.ipsquad.net/blog/2021/02/27/web-review-week-2021-08/) (1 week ago)
-- [Web Review, Week 2021-07](https://ervin.ipsquad.net/blog/2021/02/19/web-review-week-2021-07/) (2 weeks ago)
+- [Web Review, Week 2021-07](https://ervin.ipsquad.net/blog/2021/02/19/web-review-week-2021-07/) (3 weeks ago)
 - [News from KDE PIM in September-October 2020](https://ervin.ipsquad.net/blog/2020/11/01/news-from-kde-pim-in-september-october-2020/) (4 months ago)
-- [Sketchnotes at FOSDEM 2020](https://ervin.ipsquad.net/blog/2020/08/14/sketchnotes-at-fosdem-2020/) (6 months ago)
+- [Sketchnotes at FOSDEM 2020](https://ervin.ipsquad.net/blog/2020/08/14/sketchnotes-at-fosdem-2020/) (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
