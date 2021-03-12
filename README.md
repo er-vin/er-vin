@@ -18,11 +18,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
+- [Web Review, Week 2021-10](https://ervin.ipsquad.net/blog/2021/03/12/web-review-week-2021-10/) (today)
 - [Web Review, Week 2021-09](https://ervin.ipsquad.net/blog/2021/03/05/web-review-week-2021-09/) (1 week ago)
 - [Web Review, Week 2021-08](https://ervin.ipsquad.net/blog/2021/02/27/web-review-week-2021-08/) (1 week ago)
 - [Web Review, Week 2021-07](https://ervin.ipsquad.net/blog/2021/02/19/web-review-week-2021-07/) (3 weeks ago)
 - [News from KDE PIM in September-October 2020](https://ervin.ipsquad.net/blog/2020/11/01/news-from-kde-pim-in-september-october-2020/) (4 months ago)
-- [Sketchnotes at FOSDEM 2020](https://ervin.ipsquad.net/blog/2020/08/14/sketchnotes-at-fosdem-2020/) (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
