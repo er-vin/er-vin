@@ -13,12 +13,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 week ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (3 months ago)
-- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (4 months ago)
+- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (5 months ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (11 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2021-11](https://ervin.ipsquad.net/blog/2021/03/19/web-review-week-2021-11/) (3 days ago)
+- [Web Review, Week 2021-11](https://ervin.ipsquad.net/blog/2021/03/19/web-review-week-2021-11/) (4 days ago)
 - [Web Review, Week 2021-10](https://ervin.ipsquad.net/blog/2021/03/12/web-review-week-2021-10/) (1 week ago)
 - [Web Review, Week 2021-09](https://ervin.ipsquad.net/blog/2021/03/05/web-review-week-2021-09/) (2 weeks ago)
 - [Web Review, Week 2021-08](https://ervin.ipsquad.net/blog/2021/02/27/web-review-week-2021-08/) (3 weeks ago)
