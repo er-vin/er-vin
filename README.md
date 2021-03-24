@@ -7,10 +7,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 🔭 Latest releases I've contributed to on GitHub
 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.2.0-rc1), 1 week ago) - 💻 Desktop sync client for Nextcloud
+- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.9.0](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.9.0), 1 month ago) - 
 - [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), 2 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 #### 🌱 What I'm currently working on
 
+- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) -  (2 days ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 week ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (3 months ago)
 - [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (5 months ago)
