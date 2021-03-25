@@ -6,20 +6,20 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.10.0](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.10.0), today) - 
+- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.10.0](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.10.0), 1 day ago) - 
 - [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), 2 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 #### 🌱 What I'm currently working on
 
-- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) -  (2 days ago)
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (1 week ago)
+- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) -  (3 days ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (2 weeks ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (3 months ago)
 - [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (5 months ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (11 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2021-11](https://ervin.ipsquad.net/blog/2021/03/19/web-review-week-2021-11/) (5 days ago)
+- [Web Review, Week 2021-11](https://ervin.ipsquad.net/blog/2021/03/19/web-review-week-2021-11/) (6 days ago)
 - [Web Review, Week 2021-10](https://ervin.ipsquad.net/blog/2021/03/12/web-review-week-2021-10/) (1 week ago)
 - [Web Review, Week 2021-09](https://ervin.ipsquad.net/blog/2021/03/05/web-review-week-2021-09/) (2 weeks ago)
 - [Web Review, Week 2021-08](https://ervin.ipsquad.net/blog/2021/02/27/web-review-week-2021-08/) (3 weeks ago)
