@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.1](https://github.com/nextcloud/desktop/releases/tag/v3.2.1), today) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.2.1](https://github.com/nextcloud/desktop/releases/tag/v3.2.1), 1 day ago) - 💻 Desktop sync client for Nextcloud
 - [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.10.1](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.10.1), 2 weeks ago) - 
 - [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), 3 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
@@ -19,10 +19,10 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2021-16](https://ervin.ipsquad.net/blog/2021/04/23/web-review-week-2021-16/) (6 days ago)
-- [Web Review, Week 2021-15](https://ervin.ipsquad.net/blog/2021/04/16/web-review-week-2021-15/) (1 week ago)
-- [Web Review, Week 2021-14](https://ervin.ipsquad.net/blog/2021/04/09/web-review-week-2021-14/) (2 weeks ago)
-- [Web Review, Week 2021-13](https://ervin.ipsquad.net/blog/2021/04/02/web-review-week-2021-13/) (3 weeks ago)
+- [Web Review, Week 2021-16](https://ervin.ipsquad.net/blog/2021/04/23/web-review-week-2021-16/) (1 week ago)
+- [Web Review, Week 2021-15](https://ervin.ipsquad.net/blog/2021/04/16/web-review-week-2021-15/) (2 weeks ago)
+- [Web Review, Week 2021-14](https://ervin.ipsquad.net/blog/2021/04/09/web-review-week-2021-14/) (3 weeks ago)
+- [Web Review, Week 2021-13](https://ervin.ipsquad.net/blog/2021/04/02/web-review-week-2021-13/) (4 weeks ago)
 - [Web Review, Week 2021-12](https://ervin.ipsquad.net/blog/2021/03/26/web-review-week-2021-12/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
