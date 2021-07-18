@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.7.2](https://github.com/GitGuardian/ggshield/releases/tag/v1.7.2), 2 days ago) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.7.2](https://github.com/GitGuardian/ggshield/releases/tag/v1.7.2), 3 days ago) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service.
 - [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.10.1](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.10.1), 3 months ago) - 
 - [getzola/zola](https://github.com/getzola/zola) ([v0.13.0](https://github.com/getzola/zola/releases/tag/v0.13.0), 6 months ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
@@ -20,11 +20,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2021-28](https://ervin.ipsquad.net/blog/2021/07/16/web-review-week-2021-28/) (1 day ago)
+- [Web Review, Week 2021-28](https://ervin.ipsquad.net/blog/2021/07/16/web-review-week-2021-28/) (2 days ago)
 - [Web Review, Week 2021-27](https://ervin.ipsquad.net/blog/2021/07/09/web-review-week-2021-27/) (1 week ago)
 - [Web Review, Week 2021-26](https://ervin.ipsquad.net/blog/2021/07/02/web-review-week-2021-26/) (2 weeks ago)
 - [Web Review, Week 2021-25](https://ervin.ipsquad.net/blog/2021/06/25/web-review-week-2021-25/) (3 weeks ago)
-- [Web Review, Week 2021-24](https://ervin.ipsquad.net/blog/2021/06/18/web-review-week-2021-24/) (4 weeks ago)
+- [Web Review, Week 2021-24](https://ervin.ipsquad.net/blog/2021/06/18/web-review-week-2021-24/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
