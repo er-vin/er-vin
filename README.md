@@ -30,10 +30,10 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 👯 Check out some of my recent followers
 
 - [silvesterwali](https://github.com/silvesterwali)
-- [Novusvetus](https://github.com/Novusvetus)
 - [AHeimberger](https://github.com/AHeimberger)
 - [anandprabhu](https://github.com/anandprabhu)
 - [damdam41](https://github.com/damdam41)
+- [jvhoffbauer](https://github.com/jvhoffbauer)
 
 #### 📫 How to reach me
 
