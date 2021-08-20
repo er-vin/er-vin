@@ -17,14 +17,14 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) -  (5 months ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (5 months ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (8 months ago)
-- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (9 months ago)
+- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (10 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2021-32](https://ervin.ipsquad.net/blog/2021/08/13/web-review-week-2021-32/) (6 days ago)
-- [Web Review, Week 2021-31](https://ervin.ipsquad.net/blog/2021/08/06/web-review-week-2021-31/) (1 week ago)
-- [Web Review, Week 2021-30](https://ervin.ipsquad.net/blog/2021/07/30/web-review-week-2021-30/) (2 weeks ago)
-- [Web Review, Week 2021-29](https://ervin.ipsquad.net/blog/2021/07/23/web-review-week-2021-29/) (3 weeks ago)
+- [Web Review, Week 2021-32](https://ervin.ipsquad.net/blog/2021/08/13/web-review-week-2021-32/) (1 week ago)
+- [Web Review, Week 2021-31](https://ervin.ipsquad.net/blog/2021/08/06/web-review-week-2021-31/) (2 weeks ago)
+- [Web Review, Week 2021-30](https://ervin.ipsquad.net/blog/2021/07/30/web-review-week-2021-30/) (3 weeks ago)
+- [Web Review, Week 2021-29](https://ervin.ipsquad.net/blog/2021/07/23/web-review-week-2021-29/) (4 weeks ago)
 - [Web Review, Week 2021-28](https://ervin.ipsquad.net/blog/2021/07/16/web-review-week-2021-28/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
