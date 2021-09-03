@@ -6,7 +6,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.3.2](https://github.com/nextcloud/desktop/releases/tag/v3.3.2), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [getzola/zola](https://github.com/getzola/zola) ([v0.14.1](https://github.com/getzola/zola/releases/tag/v0.14.1), 1 week ago) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.8.1](https://github.com/GitGuardian/ggshield/releases/tag/v1.8.1), 2 weeks ago) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service.
 - [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.10.1](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.10.1), 4 months ago) - 
