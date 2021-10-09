@@ -13,7 +13,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (2 days ago)
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 days ago)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (5 months ago)
 - [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) -  (6 months ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (10 months ago)
@@ -21,7 +21,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2021-40](https://ervin.ipsquad.net/blog/2021/10/08/web-review-week-2021-40/) (today)
+- [Web Review, Week 2021-40](https://ervin.ipsquad.net/blog/2021/10/08/web-review-week-2021-40/) (1 day ago)
 - [Web Review, Week 2021-39](https://ervin.ipsquad.net/blog/2021/10/01/web-review-week-2021-39/) (1 week ago)
 - [Web Review, Week 2021-38](https://ervin.ipsquad.net/blog/2021/09/24/web-review-week-2021-38/) (2 weeks ago)
 - [Web Review, Week 2021-37](https://ervin.ipsquad.net/blog/2021/09/17/web-review-week-2021-37/) (3 weeks ago)
