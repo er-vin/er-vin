@@ -17,7 +17,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (5 months ago)
 - [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) -  (7 months ago)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (10 months ago)
-- [er-vin/ComDaAn](https://github.com/er-vin/ComDaAn) - This is a mirror of https://framagit.org/ervin/ComDaAn (1 year ago)
 
 #### 📜 My recent blog posts
 
