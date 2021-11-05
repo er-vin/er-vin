@@ -20,11 +20,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
+- [Web Review, Week 2021-44](https://ervin.ipsquad.net/blog/2021/11/05/web-review-week-2021-44/) (today)
 - [Web Review, Week 2021-43](https://ervin.ipsquad.net/blog/2021/10/29/web-review-week-2021-43/) (1 week ago)
 - [Web Review, Week 2021-42](https://ervin.ipsquad.net/blog/2021/10/22/web-review-week-2021-42/) (2 weeks ago)
 - [Web Review, Week 2021-41](https://ervin.ipsquad.net/blog/2021/10/15/web-review-week-2021-41/) (3 weeks ago)
 - [Web Review, Week 2021-40](https://ervin.ipsquad.net/blog/2021/10/08/web-review-week-2021-40/) (4 weeks ago)
-- [Web Review, Week 2021-39](https://ervin.ipsquad.net/blog/2021/10/01/web-review-week-2021-39/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
