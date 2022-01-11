@@ -12,7 +12,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (2 weeks ago)
+- [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (today)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (3 weeks ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 months ago)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (8 months ago)
