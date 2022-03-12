@@ -6,13 +6,13 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.14.0](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.14.0), 4 days ago) - 
+- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.14.0](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.14.0), 5 days ago) - 
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.4.3](https://github.com/nextcloud/desktop/releases/tag/v3.4.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.10.8](https://github.com/GitGuardian/ggshield/releases/tag/v1.10.8), 1 month ago) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service.
 
 #### 🌱 What I'm currently working on
 
-- [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (1 month ago)
+- [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (2 months ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (2 months ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (5 months ago)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (10 months ago)
@@ -20,7 +20,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2022-10](https://ervin.ipsquad.net/blog/2022/03/11/web-review-week-2022-10/) (today)
+- [Web Review, Week 2022-10](https://ervin.ipsquad.net/blog/2022/03/11/web-review-week-2022-10/) (1 day ago)
 - [Web Review, Week 2022-09](https://ervin.ipsquad.net/blog/2022/03/04/web-review-week-2022-09/) (1 week ago)
 - [Web Review, Week 2022-08](https://ervin.ipsquad.net/blog/2022/02/25/web-review-week-2022-08/) (2 weeks ago)
 - [Web Review, Week 2022-07](https://ervin.ipsquad.net/blog/2022/02/18/web-review-week-2022-07/) (3 weeks ago)
