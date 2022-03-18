@@ -6,8 +6,8 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.4.4](https://github.com/nextcloud/desktop/releases/tag/v3.4.4), today) - 💻 Desktop sync client for Nextcloud
 - [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) ([v1.14.0](https://github.com/pyoupyou/pyoupyou/releases/tag/v1.14.0), 1 week ago) - 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.4.3](https://github.com/nextcloud/desktop/releases/tag/v3.4.3), 2 weeks ago) - 💻 Desktop sync client for Nextcloud
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.10.8](https://github.com/GitGuardian/ggshield/releases/tag/v1.10.8), 1 month ago) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service.
 
 #### 🌱 What I'm currently working on
