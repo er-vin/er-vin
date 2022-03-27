@@ -15,7 +15,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (3 months ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (5 months ago)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service. (10 months ago)
-- [pyoupyou/pyoupyou](https://github.com/pyoupyou/pyoupyou) -  (1 year ago)
 
 #### 📜 My recent blog posts
 
