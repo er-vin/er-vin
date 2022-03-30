@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.11.0](https://github.com/GitGuardian/ggshield/releases/tag/v1.11.0), today) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.11.0](https://github.com/GitGuardian/ggshield/releases/tag/v1.11.0), 1 day ago) - Detect secret in source code, scan your repo for leaks. Find secrets with GitGuardian and prevent leaked credentials. GitGuardian is an automated secrets detection &amp; remediation service.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.5.0-rc1](https://github.com/nextcloud/desktop/releases/tag/v3.5.0-rc1), 1 week ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
@@ -18,7 +18,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2022-12](https://ervin.ipsquad.net/blog/2022/03/25/web-review-week-2022-12/) (4 days ago)
+- [Web Review, Week 2022-12](https://ervin.ipsquad.net/blog/2022/03/25/web-review-week-2022-12/) (5 days ago)
 - [Web Review, Week 2022-11](https://ervin.ipsquad.net/blog/2022/03/18/web-review-week-2022-11/) (1 week ago)
 - [Web Review, Week 2022-10](https://ervin.ipsquad.net/blog/2022/03/11/web-review-week-2022-10/) (2 weeks ago)
 - [Web Review, Week 2022-09](https://ervin.ipsquad.net/blog/2022/03/04/web-review-week-2022-09/) (3 weeks ago)
