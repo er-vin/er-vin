@@ -11,7 +11,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 🌱 What I'm currently working on
 
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (6 months ago)
-- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (6 months ago)
+- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (7 months ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (9 months ago)
 
 #### 📜 My recent blog posts
