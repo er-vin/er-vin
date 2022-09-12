@@ -6,17 +6,17 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.6.0](https://github.com/nextcloud/desktop/releases/tag/v3.6.0), 4 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.6.0](https://github.com/nextcloud/desktop/releases/tag/v3.6.0), 5 days ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (8 months ago)
-- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (8 months ago)
+- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (9 months ago)
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (11 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2022-36](https://ervin.ipsquad.net/blog/2022/09/09/web-review-week-2022-36/) (2 days ago)
+- [Web Review, Week 2022-36](https://ervin.ipsquad.net/blog/2022/09/09/web-review-week-2022-36/) (3 days ago)
 - [Web Review, Week 2022-35](https://ervin.ipsquad.net/blog/2022/09/02/web-review-week-2022-35/) (1 week ago)
 - [Web Review, Week 2022-34](https://ervin.ipsquad.net/blog/2022/08/26/web-review-week-2022-34/) (2 weeks ago)
 - [Web Review, Week 2022-33](https://ervin.ipsquad.net/blog/2022/08/19/web-review-week-2022-33/) (3 weeks ago)
