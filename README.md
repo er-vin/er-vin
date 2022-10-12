@@ -10,11 +10,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 🌱 What I'm currently working on
 
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (9 months ago)
-- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (9 months ago)
+- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (10 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2022-40](https://ervin.ipsquad.net/blog/2022/10/07/web-review-week-2022-40/) (4 days ago)
+- [Web Review, Week 2022-40](https://ervin.ipsquad.net/blog/2022/10/07/web-review-week-2022-40/) (5 days ago)
 - [Akademy IRL at Last!](https://ervin.ipsquad.net/blog/2022/09/30/akademy-irl-at-last/) (1 week ago)
 - [Web Review, Week 2022-39](https://ervin.ipsquad.net/blog/2022/09/30/web-review-week-2022-39/) (1 week ago)
 - [Web Review, Week 2022-38](https://ervin.ipsquad.net/blog/2022/09/23/web-review-week-2022-38/) (2 weeks ago)
@@ -22,11 +22,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 👯 Check out some of my recent followers
 
+- [wonkyDD](https://github.com/wonkyDD)
 - [roundoutandabout](https://github.com/roundoutandabout)
 - [Heldy09](https://github.com/Heldy09)
 - [julienc91](https://github.com/julienc91)
 - [silvesterwali](https://github.com/silvesterwali)
-- [AHeimberger](https://github.com/AHeimberger)
 
 #### 📫 How to reach me
 
