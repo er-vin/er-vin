@@ -6,9 +6,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.13.6](https://github.com/GitGuardian/ggshield/releases/tag/v1.13.6), 1 day ago) - Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks.
 
 #### 🌱 What I'm currently working on
 
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks. (today)
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (9 months ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (10 months ago)
 
