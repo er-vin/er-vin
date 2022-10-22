@@ -6,17 +6,17 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.13.6](https://github.com/GitGuardian/ggshield/releases/tag/v1.13.6), 2 days ago) - Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.13.6](https://github.com/GitGuardian/ggshield/releases/tag/v1.13.6), 3 days ago) - Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks.
 
 #### 🌱 What I'm currently working on
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks. (1 day ago)
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect secrets in source code, scan git repos, and use pre commit hooks to prevent API key leaks. (2 days ago)
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (9 months ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (10 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2022-42](https://ervin.ipsquad.net/blog/2022/10/21/web-review-week-2022-42/) (today)
+- [Web Review, Week 2022-42](https://ervin.ipsquad.net/blog/2022/10/21/web-review-week-2022-42/) (1 day ago)
 - [Web Review, Week 2022-41](https://ervin.ipsquad.net/blog/2022/10/14/web-review-week-2022-41/) (1 week ago)
 - [Web Review, Week 2022-40](https://ervin.ipsquad.net/blog/2022/10/07/web-review-week-2022-40/) (2 weeks ago)
 - [Akademy IRL at Last!](https://ervin.ipsquad.net/blog/2022/09/30/akademy-irl-at-last/) (3 weeks ago)
