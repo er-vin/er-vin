@@ -25,10 +25,10 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 👯 Check out some of my recent followers
 
 - [pinalkmayani](https://github.com/pinalkmayani)
-- [wonkyDD](https://github.com/wonkyDD)
 - [roundoutandabout](https://github.com/roundoutandabout)
 - [Heldy09](https://github.com/Heldy09)
 - [julienc91](https://github.com/julienc91)
+- [silvesterwali](https://github.com/silvesterwali)
 
 #### 📫 How to reach me
 
