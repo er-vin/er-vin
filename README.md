@@ -10,13 +10,13 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 350&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (6 days ago)
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 350&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (1 week ago)
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (10 months ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (11 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2022-45](https://ervin.ipsquad.net/blog/2022/11/11/web-review-week-2022-45/) (3 days ago)
+- [Web Review, Week 2022-45](https://ervin.ipsquad.net/blog/2022/11/11/web-review-week-2022-45/) (4 days ago)
 - [Web Review, Week 2022-44](https://ervin.ipsquad.net/blog/2022/11/04/web-review-week-2022-44/) (1 week ago)
 - [News from KDE PIM in September-October 2022](https://ervin.ipsquad.net/blog/2022/11/02/news-from-kde-pim-in-september-october-2022/) (1 week ago)
 - [Web Review, Week 2022-43](https://ervin.ipsquad.net/blog/2022/10/28/web-review-week-2022-43/) (2 weeks ago)
