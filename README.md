@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.14.1](https://github.com/GitGuardian/ggshield/releases/tag/v1.14.1), 4 days ago) - Find and fix 350&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.14.1](https://github.com/GitGuardian/ggshield/releases/tag/v1.14.1), 5 days ago) - Find and fix 350&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations.
 
 #### 🌱 What I'm currently working on
 
@@ -16,7 +16,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2022-46](https://ervin.ipsquad.net/blog/2022/11/18/web-review-week-2022-46/) (2 days ago)
+- [Web Review, Week 2022-46](https://ervin.ipsquad.net/blog/2022/11/18/web-review-week-2022-46/) (3 days ago)
 - [Web Review, Week 2022-45](https://ervin.ipsquad.net/blog/2022/11/11/web-review-week-2022-45/) (1 week ago)
 - [Web Review, Week 2022-44](https://ervin.ipsquad.net/blog/2022/11/04/web-review-week-2022-44/) (2 weeks ago)
 - [News from KDE PIM in September-October 2022](https://ervin.ipsquad.net/blog/2022/11/02/news-from-kde-pim-in-september-october-2022/) (2 weeks ago)
