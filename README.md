@@ -14,7 +14,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [er-vin-private-test/test](https://github.com/er-vin-private-test/test) -  (1 week ago)
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 350&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (1 month ago)
 - [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (11 months ago)
-- [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (1 year ago)
 
 #### 📜 My recent blog posts
 
