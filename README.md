@@ -15,7 +15,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2023-01](https://ervin.ipsquad.net/blog/2023/01/06/web-review-week-2023-01/) (3 days ago)
+- [Web Review, Week 2023-01](https://ervin.ipsquad.net/blog/2023/01/06/web-review-week-2023-01/) (4 days ago)
 - [Web Review, Week 2022-52](https://ervin.ipsquad.net/blog/2022/12/30/web-review-week-2022-52/) (1 week ago)
 - [Web Review, Week 2022-51](https://ervin.ipsquad.net/blog/2022/12/23/web-review-week-2022-51/) (2 weeks ago)
 - [Web Review, Week 2022-50](https://ervin.ipsquad.net/blog/2022/12/16/web-review-week-2022-50/) (3 weeks ago)
