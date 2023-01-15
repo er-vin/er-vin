@@ -11,7 +11,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 🌱 What I'm currently working on
 
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 350&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (2 months ago)
-- [agateblue/django-dynamic-preferences](https://github.com/agateblue/django-dynamic-preferences) - Dynamic global and instance settings for your django project (1 year ago)
 
 #### 📜 My recent blog posts
 
