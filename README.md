@@ -22,7 +22,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 👯 Check out some of my recent followers
 
-- [gps-drone](https://github.com/gps-drone)
+- [killmonger420](https://github.com/killmonger420)
 - [MilleniumSpark](https://github.com/MilleniumSpark)
 - [pinalkmayani](https://github.com/pinalkmayani)
 - [roundoutandabout](https://github.com/roundoutandabout)
