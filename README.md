@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.18.0](https://github.com/GitGuardian/ggshield/releases/tag/v1.18.0), today) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.18.0](https://github.com/GitGuardian/ggshield/releases/tag/v1.18.0), 1 day ago) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations.
 
 #### 🌱 What I'm currently working on
 
@@ -14,7 +14,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2023-32](https://ervin.ipsquad.net/blog/2023/08/11/web-review-week-2023-32/) (5 days ago)
+- [Web Review, Week 2023-32](https://ervin.ipsquad.net/blog/2023/08/11/web-review-week-2023-32/) (6 days ago)
 - [Web Review, Week 2023-31](https://ervin.ipsquad.net/blog/2023/08/04/web-review-week-2023-31/) (1 week ago)
 - [Web Review, Week 2023-30... or the July Mega-Compilation](https://ervin.ipsquad.net/blog/2023/07/28/web-review-week-2023-30/) (2 weeks ago)
 - [Akademy 2023 is over, let&#39;s see what comes next](https://ervin.ipsquad.net/blog/2023/07/22/akademy-2023-is-over-lets-see-what-comes-next/) (3 weeks ago)
