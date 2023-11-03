@@ -10,14 +10,14 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (11 months ago)
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (1 year ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2023-43](https://ervin.ipsquad.net/blog/2023/10/27/web-review-week-2023-43/) (6 days ago)
-- [Web Review, Week 2023-42](https://ervin.ipsquad.net/blog/2023/10/20/web-review-week-2023-42/) (1 week ago)
-- [Web Review, Week 2023-41](https://ervin.ipsquad.net/blog/2023/10/13/web-review-week-2023-41/) (2 weeks ago)
-- [Web Review, Week 2023-40](https://ervin.ipsquad.net/blog/2023/10/06/web-review-week-2023-40/) (3 weeks ago)
+- [Web Review, Week 2023-43](https://ervin.ipsquad.net/blog/2023/10/27/web-review-week-2023-43/) (1 week ago)
+- [Web Review, Week 2023-42](https://ervin.ipsquad.net/blog/2023/10/20/web-review-week-2023-42/) (2 weeks ago)
+- [Web Review, Week 2023-41](https://ervin.ipsquad.net/blog/2023/10/13/web-review-week-2023-41/) (3 weeks ago)
+- [Web Review, Week 2023-40](https://ervin.ipsquad.net/blog/2023/10/06/web-review-week-2023-40/) (4 weeks ago)
 - [Web Review, Week 2023-39](https://ervin.ipsquad.net/blog/2023/09/29/web-review-week-2023-39/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
