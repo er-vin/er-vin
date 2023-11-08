@@ -6,7 +6,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) ([v1.20.0](https://github.com/GitGuardian/ggshield/releases/tag/v1.20.0), 3 weeks ago) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations.
 
 #### 🌱 What I'm currently working on
 
