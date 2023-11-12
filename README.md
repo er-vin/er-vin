@@ -9,7 +9,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360&#43; types of hardcoded secrets and 70&#43; types of infrastructure-as-code misconfigurations. (1 year ago)
 
 #### 📜 My recent blog posts
 
