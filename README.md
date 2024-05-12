@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.12.5](https://github.com/nextcloud/desktop/releases/tag/v3.12.5), 5 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.12.5](https://github.com/nextcloud/desktop/releases/tag/v3.12.5), 6 days ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
@@ -18,11 +18,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-19](https://ervin.ipsquad.net/blog/2024/05/10/web-review-week-2024-19/) (1 day ago)
+- [Web Review, Week 2024-19](https://ervin.ipsquad.net/blog/2024/05/10/web-review-week-2024-19/) (2 days ago)
 - [Web Review, Week 2024-18](https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/) (1 week ago)
 - [Web Review, Week 2024-17](https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/) (2 weeks ago)
 - [Web Review, Week 2024-16](https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/) (3 weeks ago)
-- [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/) (4 weeks ago)
+- [Web Review, Week 2024-15](https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
