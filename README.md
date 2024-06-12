@@ -10,11 +10,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
+- [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (today)
 - [KDE/ksvg](https://github.com/KDE/ksvg) - Components for handling SVGs (1 month ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (2 months ago)
 - [KDE/discover](https://github.com/KDE/discover) - KDE and Plasma resources management GUI (2 months ago)
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor (2 months ago)
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud (3 months ago)
 
 #### 📜 My recent blog posts
 
