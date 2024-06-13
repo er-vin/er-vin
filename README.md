@@ -10,7 +10,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (today)
+- [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (1 day ago)
 - [KDE/ksvg](https://github.com/KDE/ksvg) - Components for handling SVGs (1 month ago)
 - [KDE/zanshin](https://github.com/KDE/zanshin) - Getting Things Done application which aims at getting your mind like water (2 months ago)
 - [KDE/discover](https://github.com/KDE/discover) - KDE and Plasma resources management GUI (2 months ago)
@@ -18,7 +18,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-23](https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/) (5 days ago)
+- [Web Review, Week 2024-23](https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/) (6 days ago)
 - [Web Review, Week 2024-22](https://ervin.ipsquad.net/blog/2024/05/31/web-review-week-2024-22/) (1 week ago)
 - [Web Review, Week 2024-21](https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/) (2 weeks ago)
 - [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/) (3 weeks ago)
