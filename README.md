@@ -18,11 +18,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
+- [Report From KDEPIM Spring Sprint 2024](https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/) (today)
 - [Web Review, Week 2024-24](https://ervin.ipsquad.net/blog/2024/06/14/web-review-week-2024-24/) (2 days ago)
 - [Web Review, Week 2024-23](https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/) (1 week ago)
 - [Web Review, Week 2024-22](https://ervin.ipsquad.net/blog/2024/05/31/web-review-week-2024-22/) (2 weeks ago)
 - [Web Review, Week 2024-21](https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/) (3 weeks ago)
-- [Web Review, Week 2024-20](https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
