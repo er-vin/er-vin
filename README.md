@@ -6,11 +6,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.12.6](https://github.com/nextcloud/desktop/releases/tag/v3.12.6), 1 day ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.12.6](https://github.com/nextcloud/desktop/releases/tag/v3.12.6), 2 days ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
-- [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (4 days ago)
+- [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (5 days ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (1 week ago)
 - [KDE/plasma-welcome](https://github.com/KDE/plasma-welcome) - A friendly onboarding wizard for Plasma (2 weeks ago)
 - [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (2 weeks ago)
@@ -18,7 +18,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-26](https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/) (today)
+- [Web Review, Week 2024-26](https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/) (1 day ago)
 - [Web Review, Week 2024-25](https://ervin.ipsquad.net/blog/2024/06/21/web-review-week-2024-25/) (1 week ago)
 - [Report From KDEPIM Spring Sprint 2024](https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/) (1 week ago)
 - [Web Review, Week 2024-24](https://ervin.ipsquad.net/blog/2024/06/14/web-review-week-2024-24/) (2 weeks ago)
