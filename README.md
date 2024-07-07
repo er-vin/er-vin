@@ -6,22 +6,22 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.13.1](https://github.com/nextcloud/desktop/releases/tag/v3.13.1), 4 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.13.1](https://github.com/nextcloud/desktop/releases/tag/v3.13.1), 5 days ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (1 week ago)
-- [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (2 weeks ago)
+- [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (3 weeks ago)
 - [KDE/plasma-welcome](https://github.com/KDE/plasma-welcome) - A friendly onboarding wizard for Plasma (3 weeks ago)
 - [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (3 weeks ago)
 - [KDE/ksvg](https://github.com/KDE/ksvg) - Components for handling SVGs (2 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-27](https://ervin.ipsquad.net/blog/2024/07/05/web-review-week-2024-27/) (1 day ago)
+- [Web Review, Week 2024-27](https://ervin.ipsquad.net/blog/2024/07/05/web-review-week-2024-27/) (2 days ago)
 - [Web Review, Week 2024-26](https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/) (1 week ago)
 - [Web Review, Week 2024-25](https://ervin.ipsquad.net/blog/2024/06/21/web-review-week-2024-25/) (2 weeks ago)
-- [Report From KDEPIM Spring Sprint 2024](https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/) (2 weeks ago)
+- [Report From KDEPIM Spring Sprint 2024](https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/) (3 weeks ago)
 - [Web Review, Week 2024-24](https://ervin.ipsquad.net/blog/2024/06/14/web-review-week-2024-24/) (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
