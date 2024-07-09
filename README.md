@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.13.1](https://github.com/nextcloud/desktop/releases/tag/v3.13.1), 1 week ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.13.2](https://github.com/nextcloud/desktop/releases/tag/v3.13.2), today) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
