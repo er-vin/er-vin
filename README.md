@@ -10,11 +10,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
+- [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (1 day ago)
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (1 month ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (1 month ago)
 - [KDE/plasma-welcome](https://github.com/KDE/plasma-welcome) - A friendly onboarding wizard for Plasma (1 month ago)
 - [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (1 month ago)
-- [KDE/ksvg](https://github.com/KDE/ksvg) - Components for handling SVGs (3 months ago)
 
 #### 📜 My recent blog posts
 
