@@ -14,15 +14,15 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (1 month ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (1 month ago)
 - [KDE/plasma-welcome](https://github.com/KDE/plasma-welcome) - A friendly onboarding wizard for Plasma (1 month ago)
-- [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (1 month ago)
+- [KDE/kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt (2 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-32](https://ervin.ipsquad.net/blog/2024/08/09/web-review-week-2024-32/) (1 day ago)
+- [Web Review, Week 2024-32](https://ervin.ipsquad.net/blog/2024/08/09/web-review-week-2024-32/) (2 days ago)
 - [Web Review, Week 2024-31](https://ervin.ipsquad.net/blog/2024/08/02/web-review-week-2024-31/) (1 week ago)
 - [Web Review, Week 2024-30](https://ervin.ipsquad.net/blog/2024/07/26/web-review-week-2024-30/) (2 weeks ago)
 - [Web Review, Week 2024-29](https://ervin.ipsquad.net/blog/2024/07/19/web-review-week-2024-29/) (3 weeks ago)
-- [Web Review, Week 2024-28](https://ervin.ipsquad.net/blog/2024/07/12/web-review-week-2024-28/) (4 weeks ago)
+- [Web Review, Week 2024-28](https://ervin.ipsquad.net/blog/2024/07/12/web-review-week-2024-28/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
