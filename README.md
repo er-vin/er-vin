@@ -11,14 +11,14 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 🌱 What I'm currently working on
 
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (1 week ago)
-- [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (2 weeks ago)
+- [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (3 weeks ago)
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (2 months ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (2 months ago)
 - [KDE/plasma-welcome](https://github.com/KDE/plasma-welcome) - A friendly onboarding wizard for Plasma (2 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-34](https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/) (today)
+- [Web Review, Week 2024-34](https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/) (1 day ago)
 - [Web Review, Week 2024-33](https://ervin.ipsquad.net/blog/2024/08/16/web-review-week-2024-33/) (1 week ago)
 - [Web Review, Week 2024-32](https://ervin.ipsquad.net/blog/2024/08/09/web-review-week-2024-32/) (2 weeks ago)
 - [Web Review, Week 2024-31](https://ervin.ipsquad.net/blog/2024/08/02/web-review-week-2024-31/) (3 weeks ago)
