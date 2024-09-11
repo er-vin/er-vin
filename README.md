@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.14.0-rc3](https://github.com/nextcloud/desktop/releases/tag/v3.14.0-rc3), 1 day ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.14.0-rc3](https://github.com/nextcloud/desktop/releases/tag/v3.14.0-rc3), 2 days ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
@@ -14,15 +14,15 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (1 month ago)
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (2 months ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (2 months ago)
-- [KDE/plasma-welcome](https://github.com/KDE/plasma-welcome) - A friendly onboarding wizard for Plasma (2 months ago)
+- [KDE/plasma-welcome](https://github.com/KDE/plasma-welcome) - A friendly onboarding wizard for Plasma (3 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-36](https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/) (4 days ago)
+- [A Tale of Wine Labels and Open Source Contributions](https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/) (today)
+- [Web Review, Week 2024-36](https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/) (5 days ago)
 - [Web Review, Week 2024-35](https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/) (1 week ago)
 - [Web Review, Week 2024-34](https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/) (2 weeks ago)
 - [Web Review, Week 2024-33](https://ervin.ipsquad.net/blog/2024/08/16/web-review-week-2024-33/) (3 weeks ago)
-- [Web Review, Week 2024-32](https://ervin.ipsquad.net/blog/2024/08/09/web-review-week-2024-32/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
