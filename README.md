@@ -11,7 +11,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (1 day ago)
+- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (2 days ago)
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (1 month ago)
 - [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (1 month ago)
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (3 months ago)
@@ -19,11 +19,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-38](https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/) (6 days ago)
+- [Web Review, Week 2024-38](https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/) (1 week ago)
 - [Web Review, Week 2024-37](https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/) (1 week ago)
 - [A Tale of Wine Labels and Open Source Contributions](https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/) (2 weeks ago)
-- [Web Review, Week 2024-36](https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/) (2 weeks ago)
-- [Web Review, Week 2024-35](https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/) (3 weeks ago)
+- [Web Review, Week 2024-36](https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/) (3 weeks ago)
+- [Web Review, Week 2024-35](https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/) (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
