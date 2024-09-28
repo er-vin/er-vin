@@ -6,12 +6,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.14.1](https://github.com/nextcloud/desktop/releases/tag/v3.14.1), today) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.14.1](https://github.com/nextcloud/desktop/releases/tag/v3.14.1), 1 day ago) - 💻 Desktop sync client for Nextcloud
 - [canonical/snapd](https://github.com/canonical/snapd) ([2.65.3](https://github.com/canonical/snapd/releases/tag/2.65.3), 1 week ago) - The snapd and snap tools enable systems to work with .snap files.
 
 #### 🌱 What I'm currently working on
 
-- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (2 days ago)
+- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (3 days ago)
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (1 month ago)
 - [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (1 month ago)
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (3 months ago)
@@ -19,9 +19,9 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-39](https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/) (today)
+- [Web Review, Week 2024-39](https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/) (1 day ago)
 - [Web Review, Week 2024-38](https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/) (1 week ago)
-- [Web Review, Week 2024-37](https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/) (1 week ago)
+- [Web Review, Week 2024-37](https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/) (2 weeks ago)
 - [A Tale of Wine Labels and Open Source Contributions](https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/) (2 weeks ago)
 - [Web Review, Week 2024-36](https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/) (3 weeks ago)
 
