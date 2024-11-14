@@ -11,7 +11,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (1 week ago)
+- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (today)
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (3 months ago)
 - [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (3 months ago)
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (4 months ago)
