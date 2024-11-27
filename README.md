@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.15.0](https://github.com/nextcloud/desktop/releases/tag/v3.15.0), 1 day ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.15.0](https://github.com/nextcloud/desktop/releases/tag/v3.15.0), 2 days ago) - 💻 Desktop sync client for Nextcloud
 - [canonical/snapd](https://github.com/canonical/snapd) ([2.66.1](https://github.com/canonical/snapd/releases/tag/2.66.1), 2 weeks ago) - The snapd and snap tools enable systems to work with .snap files.
 
 #### 🌱 What I'm currently working on
@@ -19,7 +19,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-47](https://ervin.ipsquad.net/blog/2024/11/22/web-review-week-2024-47/) (4 days ago)
+- [Web Review, Week 2024-47](https://ervin.ipsquad.net/blog/2024/11/22/web-review-week-2024-47/) (5 days ago)
 - [Web Review, Week 2024-46](https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/) (1 week ago)
 - [Web Review, Week 2024-45](https://ervin.ipsquad.net/blog/2024/11/08/web-review-week-2024-45/) (2 weeks ago)
 - [Web Review, Week 2024-44](https://ervin.ipsquad.net/blog/2024/11/01/web-review-week-2024-44/) (3 weeks ago)
