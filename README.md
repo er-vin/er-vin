@@ -19,11 +19,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2024-52](https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/) (1 day ago)
+- [Web Review, Week 2024-52](https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/) (2 days ago)
 - [Web Review, Week 2024-51](https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/) (1 week ago)
 - [Web Review, Week 2024-50](https://ervin.ipsquad.net/blog/2024/12/13/web-review-week-2024-50/) (2 weeks ago)
 - [Web Review, Week 2024-49](https://ervin.ipsquad.net/blog/2024/12/06/web-review-week-2024-49/) (3 weeks ago)
-- [Web Review, Week 2024-48](https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/) (4 weeks ago)
+- [Web Review, Week 2024-48](https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
