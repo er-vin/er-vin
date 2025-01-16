@@ -6,8 +6,8 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
+- [canonical/snapd](https://github.com/canonical/snapd) ([2.67](https://github.com/canonical/snapd/releases/tag/2.67), today) - The snapd and snap tools enable systems to work with .snap files.
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.15.3](https://github.com/nextcloud/desktop/releases/tag/v3.15.3), 1 week ago) - 💻 Desktop sync client for Nextcloud
-- [canonical/snapd](https://github.com/canonical/snapd) ([2.66.1](https://github.com/canonical/snapd/releases/tag/2.66.1), 2 months ago) - The snapd and snap tools enable systems to work with .snap files.
 
 #### 🌱 What I'm currently working on
 
