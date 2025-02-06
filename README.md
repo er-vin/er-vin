@@ -6,8 +6,8 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [canonical/snapd](https://github.com/canonical/snapd) ([2.67](https://github.com/canonical/snapd/releases/tag/2.67), 2 weeks ago) - The snapd and snap tools enable systems to work with .snap files.
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.15.3](https://github.com/nextcloud/desktop/releases/tag/v3.15.3), 4 weeks ago) - 💻 Desktop sync client for Nextcloud
+- [canonical/snapd](https://github.com/canonical/snapd) ([2.67](https://github.com/canonical/snapd/releases/tag/2.67), 3 weeks ago) - The snapd and snap tools enable systems to work with .snap files.
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.15.3](https://github.com/nextcloud/desktop/releases/tag/v3.15.3), 1 month ago) - 💻 Desktop sync client for Nextcloud
 
 #### 🌱 What I'm currently working on
 
@@ -19,7 +19,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2025-05](https://ervin.ipsquad.net/blog/2025/01/31/web-review-week-2025-05/) (5 days ago)
+- [Web Review, Week 2025-05](https://ervin.ipsquad.net/blog/2025/01/31/web-review-week-2025-05/) (6 days ago)
 - [Web Review, Week 2025-04](https://ervin.ipsquad.net/blog/2025/01/24/web-review-week-2025-04/) (1 week ago)
 - [Web Review, Week 2025-03](https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/) (2 weeks ago)
 - [Web Review, Week 2025-02](https://ervin.ipsquad.net/blog/2025/01/10/web-review-week-2025-02/) (3 weeks ago)
