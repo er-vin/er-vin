@@ -29,9 +29,9 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 - [XiaomingX](https://github.com/XiaomingX)
 - [Cuperino](https://github.com/Cuperino)
-- [amirouche](https://github.com/amirouche)
 - [jrichy1](https://github.com/jrichy1)
 - [Neustradamus](https://github.com/Neustradamus)
+- [killmonger420](https://github.com/killmonger420)
 
 #### 📫 How to reach me
 
