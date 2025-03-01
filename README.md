@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.16.0-rc3](https://github.com/nextcloud/desktop/releases/tag/v3.16.0-rc3), 2 days ago) - 💻 Desktop sync client for Nextcloud
+- [nextcloud/desktop](https://github.com/nextcloud/desktop) ([v3.16.0-rc3](https://github.com/nextcloud/desktop/releases/tag/v3.16.0-rc3), 3 days ago) - 💻 Desktop sync client for Nextcloud
 - [canonical/snapd](https://github.com/canonical/snapd) ([2.67.1](https://github.com/canonical/snapd/releases/tag/2.67.1), 2 weeks ago) - The snapd and snap tools enable systems to work with .snap files.
 
 #### 🌱 What I'm currently working on
@@ -14,12 +14,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/okular](https://github.com/KDE/okular) - KDE document viewer (1 week ago)
 - [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (3 months ago)
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (6 months ago)
-- [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (6 months ago)
+- [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (7 months ago)
 - [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (8 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2025-09](https://ervin.ipsquad.net/blog/2025/02/28/web-review-week-2025-09/) (today)
+- [Web Review, Week 2025-09](https://ervin.ipsquad.net/blog/2025/02/28/web-review-week-2025-09/) (1 day ago)
 - [Web Review, Week 2025-08](https://ervin.ipsquad.net/blog/2025/02/21/web-review-week-2025-08/) (1 week ago)
 - [Web Review, Week 2025-07](https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/) (2 weeks ago)
 - [Web Review, Week 2025-06](https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/) (3 weeks ago)
