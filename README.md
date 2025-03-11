@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [canonical/snapd](https://github.com/canonical/snapd) ([2.68](https://github.com/canonical/snapd/releases/tag/2.68), 1 week ago) - The snapd and snap tools enable systems to work with .snap files.
+- [canonical/snapd](https://github.com/canonical/snapd) ([2.68.2](https://github.com/canonical/snapd/releases/tag/2.68.2), today) - The snapd and snap tools enable systems to work with .snap files.
 
 #### 🌱 What I'm currently working on
 
