@@ -26,11 +26,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 👯 Check out some of my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [Cuperino](https://github.com/Cuperino)
 - [jrichy1](https://github.com/jrichy1)
 - [Neustradamus](https://github.com/Neustradamus)
 - [killmonger420](https://github.com/killmonger420)
+- [MilleniumSpark](https://github.com/MilleniumSpark)
 
 #### 📫 How to reach me
 
