@@ -10,11 +10,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
+- [KDE/kmail](https://github.com/KDE/kmail) - State-of-the-art feature-rich email client that supports many protocols (1 day ago)
 - [KDE/okular](https://github.com/KDE/okular) - KDE document viewer (1 month ago)
 - [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (7 months ago)
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (10 months ago)
 - [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (10 months ago)
-- [KDE/xwaylandvideobridge](https://github.com/KDE/xwaylandvideobridge) - Utility to allow streaming Wayland windows to X applications (11 months ago)
 
 #### 📜 My recent blog posts
 
