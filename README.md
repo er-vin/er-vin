@@ -6,7 +6,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [canonical/snapd](https://github.com/canonical/snapd) ([2.68.5](https://github.com/canonical/snapd/releases/tag/2.68.5), 2 weeks ago) - The snapd and snap tools enable systems to work with .snap files.
+- [canonical/snapd](https://github.com/canonical/snapd) ([2.68.5](https://github.com/canonical/snapd/releases/tag/2.68.5), 3 weeks ago) - The snapd and snap tools enable systems to work with .snap files.
 
 #### 🌱 What I'm currently working on
 
@@ -18,7 +18,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2025-25](https://ervin.ipsquad.net/blog/2025/06/20/web-review-week-2025-25/) (5 days ago)
+- [Web Review, Week 2025-25](https://ervin.ipsquad.net/blog/2025/06/20/web-review-week-2025-25/) (6 days ago)
 - [Web Review, Week 2025-24](https://ervin.ipsquad.net/blog/2025/06/13/web-review-week-2025-24/) (1 week ago)
 - [Web Review, Week 2025-23](https://ervin.ipsquad.net/blog/2025/06/06/web-review-week-2025-23/) (2 weeks ago)
 - [Web Review, Week 2025-22](https://ervin.ipsquad.net/blog/2025/05/30/web-review-week-2025-22/) (3 weeks ago)
