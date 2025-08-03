@@ -14,7 +14,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/kmail](https://github.com/KDE/kmail) - State-of-the-art feature-rich email client that supports many protocols (1 month ago)
 - [KDE/okular](https://github.com/KDE/okular) - KDE document viewer (3 months ago)
 - [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (8 months ago)
-- [KDE/kitinerary](https://github.com/KDE/kitinerary) - Data Model and Extraction System for Travel Reservation information (1 year ago)
 
 #### 📜 My recent blog posts
 
