@@ -6,18 +6,18 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🔭 Latest releases I've contributed to on GitHub
 
-- [canonical/snapd](https://github.com/canonical/snapd) ([2.71](https://github.com/canonical/snapd/releases/tag/2.71), 1 week ago) - The snapd and snap tools enable systems to work with .snap files.
+- [canonical/snapd](https://github.com/canonical/snapd) ([2.71](https://github.com/canonical/snapd/releases/tag/2.71), 2 weeks ago) - The snapd and snap tools enable systems to work with .snap files.
 
 #### 🌱 What I'm currently working on
 
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (1 month ago)
 - [KDE/kmail](https://github.com/KDE/kmail) - State-of-the-art feature-rich email client that supports many protocols (2 months ago)
-- [KDE/okular](https://github.com/KDE/okular) - KDE document viewer (3 months ago)
+- [KDE/okular](https://github.com/KDE/okular) - KDE document viewer (4 months ago)
 - [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (9 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2025-34](https://ervin.ipsquad.net/blog/2025/08/22/web-review-week-2025-34/) (5 days ago)
+- [Web Review, Week 2025-34](https://ervin.ipsquad.net/blog/2025/08/22/web-review-week-2025-34/) (6 days ago)
 - [Web Review, Week 2025-33](https://ervin.ipsquad.net/blog/2025/08/15/web-review-week-2025-33/) (1 week ago)
 - [Web Review, Week 2025-32](https://ervin.ipsquad.net/blog/2025/08/08/web-review-week-2025-32/) (2 weeks ago)
 - [Web Review, Week 2025-31](https://ervin.ipsquad.net/blog/2025/08/01/web-review-week-2025-31/) (3 weeks ago)
