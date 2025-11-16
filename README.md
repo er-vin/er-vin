@@ -13,7 +13,6 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (4 months ago)
 - [KDE/kmail](https://github.com/KDE/kmail) - State-of-the-art feature-rich email client that supports many protocols (5 months ago)
 - [KDE/okular](https://github.com/KDE/okular) - KDE document viewer (6 months ago)
-- [canonical/snapd](https://github.com/canonical/snapd) - The snapd and snap tools enable systems to work with .snap files. (1 year ago)
 
 #### 📜 My recent blog posts
 
