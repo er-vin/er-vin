@@ -10,13 +10,13 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 #### 🌱 What I'm currently working on
 
 - [BurntSushi/rust-pcre2](https://github.com/BurntSushi/rust-pcre2) - High level Rust bindings to PCRE2. (2 months ago)
-- [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (4 months ago)
+- [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (5 months ago)
 - [KDE/kmail](https://github.com/KDE/kmail) - State-of-the-art feature-rich email client that supports many protocols (6 months ago)
 - [KDE/okular](https://github.com/KDE/okular) - KDE document viewer (7 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2025-49](https://ervin.ipsquad.net/blog/2025/12/05/web-review-week-2025-49/) (5 days ago)
+- [Web Review, Week 2025-49](https://ervin.ipsquad.net/blog/2025/12/05/web-review-week-2025-49/) (6 days ago)
 - [Web Review, Week 2025-48](https://ervin.ipsquad.net/blog/2025/11/28/web-review-week-2025-48/) (1 week ago)
 - [Web Review, Week 2025-47](https://ervin.ipsquad.net/blog/2025/11/21/web-review-week-2025-47/) (2 weeks ago)
 - [Web Review, Week 2025-46](https://ervin.ipsquad.net/blog/2025/11/14/web-review-week-2025-46/) (3 weeks ago)
