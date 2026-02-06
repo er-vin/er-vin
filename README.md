@@ -9,11 +9,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
+- [KDE/solid](https://github.com/KDE/solid) - Solid (4 days ago)
 - [enioka-Haute-Couture/GildedRoseQtWidgetsToQtQuick](https://github.com/enioka-Haute-Couture/GildedRoseQtWidgetsToQtQuick) - Example repository for the &#34;QtWidgets to QtQuick, An Application Journey&#34; blog series (2 weeks ago)
 - [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (1 month ago)
 - [BurntSushi/rust-pcre2](https://github.com/BurntSushi/rust-pcre2) - High level Rust bindings to PCRE2. (4 months ago)
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (6 months ago)
-- [KDE/kmail](https://github.com/KDE/kmail) - State-of-the-art feature-rich email client that supports many protocols (8 months ago)
 
 #### 📜 My recent blog posts
 
