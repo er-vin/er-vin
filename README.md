@@ -12,12 +12,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/solid](https://github.com/KDE/solid) - Solid (2 weeks ago)
 - [enioka-Haute-Couture/GildedRoseQtWidgetsToQtQuick](https://github.com/enioka-Haute-Couture/GildedRoseQtWidgetsToQtQuick) - Example repository for the &#34;QtWidgets to QtQuick, An Application Journey&#34; blog series (4 weeks ago)
 - [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (2 months ago)
-- [BurntSushi/rust-pcre2](https://github.com/BurntSushi/rust-pcre2) - High level Rust bindings to PCRE2. (4 months ago)
+- [BurntSushi/rust-pcre2](https://github.com/BurntSushi/rust-pcre2) - High level Rust bindings to PCRE2. (5 months ago)
 - [KDE/plasma-workspace](https://github.com/KDE/plasma-workspace) - Various components needed to run a Plasma-based environment (7 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-07](https://ervin.ipsquad.net/blog/2026/02/13/web-review-week-2026-07/) (4 days ago)
+- [Web Review, Week 2026-07](https://ervin.ipsquad.net/blog/2026/02/13/web-review-week-2026-07/) (5 days ago)
 - [Web Review, Week 2026-06](https://ervin.ipsquad.net/blog/2026/02/06/web-review-week-2026-06/) (1 week ago)
 - [Web Review, Week 2026-05](https://ervin.ipsquad.net/blog/2026/01/30/web-review-week-2026-05/) (2 weeks ago)
 - [Web Review, Week 2026-04](https://ervin.ipsquad.net/blog/2026/01/23/web-review-week-2026-04/) (3 weeks ago)
