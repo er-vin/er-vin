@@ -9,7 +9,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [KDE/solid](https://github.com/KDE/solid) - Solid (3 weeks ago)
+- [KDE/solid](https://github.com/KDE/solid) - Solid (4 weeks ago)
 - [enioka-Haute-Couture/GildedRoseQtWidgetsToQtQuick](https://github.com/enioka-Haute-Couture/GildedRoseQtWidgetsToQtQuick) - Example repository for the &#34;QtWidgets to QtQuick, An Application Journey&#34; blog series (1 month ago)
 - [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (2 months ago)
 - [BurntSushi/rust-pcre2](https://github.com/BurntSushi/rust-pcre2) - High level Rust bindings to PCRE2. (5 months ago)
@@ -17,7 +17,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-09](https://ervin.ipsquad.net/blog/2026/02/27/web-review-week-2026-09/) (2 days ago)
+- [Web Review, Week 2026-09](https://ervin.ipsquad.net/blog/2026/02/27/web-review-week-2026-09/) (3 days ago)
 - [Web Review, Week 2026-08](https://ervin.ipsquad.net/blog/2026/02/20/web-review-week-2026-08/) (1 week ago)
 - [Web Review, Week 2026-07](https://ervin.ipsquad.net/blog/2026/02/13/web-review-week-2026-07/) (2 weeks ago)
 - [Web Review, Week 2026-06](https://ervin.ipsquad.net/blog/2026/02/06/web-review-week-2026-06/) (3 weeks ago)
