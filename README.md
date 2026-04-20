@@ -9,10 +9,10 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
+- [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (today)
 - [KDE/kcalendarcore](https://github.com/KDE/kcalendarcore) - KCalendarCore - Library for Interfacing with Calendars (3 days ago)
 - [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (4 days ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (5 days ago)
-- [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (5 days ago)
 - [KDE/solid](https://github.com/KDE/solid) - Solid (2 months ago)
 
 #### 📜 My recent blog posts
