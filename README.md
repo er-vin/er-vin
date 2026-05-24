@@ -9,18 +9,18 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (1 day ago)
-- [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (2 days ago)
-- [KDE/akonadi-calendar](https://github.com/KDE/akonadi-calendar) - Akonadi calendar integration (2 days ago)
-- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (2 days ago)
+- [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (2 days ago)
+- [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (3 days ago)
+- [KDE/akonadi-calendar](https://github.com/KDE/akonadi-calendar) - Akonadi calendar integration (3 days ago)
+- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (3 days ago)
 - [KDE/kcalendarcore](https://github.com/KDE/kcalendarcore) - KCalendarCore - Library for Interfacing with Calendars (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) (1 day ago)
+- [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) (2 days ago)
 - [Web Review, Week 2026-20](https://ervin.ipsquad.net/blog/2026/05/15/web-review-week-2026-20/) (1 week ago)
 - [Web Review, Week 2026-19](https://ervin.ipsquad.net/blog/2026/05/08/web-review-week-2026-19/) (2 weeks ago)
-- [Web Review, Week 2026-17](https://ervin.ipsquad.net/blog/2026/04/24/web-review-week-2026-17/) (4 weeks ago)
+- [Web Review, Week 2026-17](https://ervin.ipsquad.net/blog/2026/04/24/web-review-week-2026-17/) (1 month ago)
 - [Web Review, Week 2026-16](https://ervin.ipsquad.net/blog/2026/04/17/web-review-week-2026-16/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
