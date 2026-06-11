@@ -9,11 +9,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
+- [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (3 days ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (2 weeks ago)
 - [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (3 weeks ago)
 - [KDE/akonadi-calendar](https://github.com/KDE/akonadi-calendar) - Akonadi calendar integration (3 weeks ago)
 - [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (3 weeks ago)
-- [KDE/kcalendarcore](https://github.com/KDE/kcalendarcore) - KCalendarCore - Library for Interfacing with Calendars (1 month ago)
 
 #### 📜 My recent blog posts
 
