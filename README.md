@@ -9,18 +9,18 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (3 days ago)
-- [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (2 weeks ago)
+- [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (4 days ago)
+- [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (3 weeks ago)
 - [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (3 weeks ago)
 - [KDE/akonadi-calendar](https://github.com/KDE/akonadi-calendar) - Akonadi calendar integration (3 weeks ago)
 - [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-23](https://ervin.ipsquad.net/blog/2026/06/05/web-review-week-2026-23/) (6 days ago)
-- [Web Review, Week 2026-22](https://ervin.ipsquad.net/blog/2026/05/29/web-review-week-2026-22/) (1 week ago)
-- [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) (2 weeks ago)
-- [Web Review, Week 2026-20](https://ervin.ipsquad.net/blog/2026/05/15/web-review-week-2026-20/) (3 weeks ago)
+- [Web Review, Week 2026-23](https://ervin.ipsquad.net/blog/2026/06/05/web-review-week-2026-23/) (1 week ago)
+- [Web Review, Week 2026-22](https://ervin.ipsquad.net/blog/2026/05/29/web-review-week-2026-22/) (2 weeks ago)
+- [Web Review, Week 2026-21](https://ervin.ipsquad.net/blog/2026/05/22/web-review-week-2026-21/) (3 weeks ago)
+- [Web Review, Week 2026-20](https://ervin.ipsquad.net/blog/2026/05/15/web-review-week-2026-20/) (4 weeks ago)
 - [Web Review, Week 2026-19](https://ervin.ipsquad.net/blog/2026/05/08/web-review-week-2026-19/) (1 month ago)
 
 #### 👯 Check out some of my recent followers
