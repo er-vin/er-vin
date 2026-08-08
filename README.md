@@ -17,7 +17,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) (today)
+- [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) (1 day ago)
 - [Web Review, Week 2026-31](https://ervin.ipsquad.net/blog/2026/07/31/web-review-week-2026-31/) (1 week ago)
 - [Web Review, Week 2026-30](https://ervin.ipsquad.net/blog/2026/07/24/web-review-week-2026-30/) (2 weeks ago)
 - [KDE for Enterprise Needs a Strong PIM Infrastructure](https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/) (2 weeks ago)
