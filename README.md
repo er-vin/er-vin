@@ -13,7 +13,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (1 week ago)
 - [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (1 week ago)
 - [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (3 weeks ago)
-- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (2 months ago)
+- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (3 months ago)
 
 #### 📜 My recent blog posts
 
