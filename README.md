@@ -9,7 +9,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (today)
+- [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (1 day ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (4 weeks ago)
 - [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (4 weeks ago)
 - [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (1 month ago)
@@ -17,7 +17,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) (3 weeks ago)
+- [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) (4 weeks ago)
 - [Web Review, Week 2026-31](https://ervin.ipsquad.net/blog/2026/07/31/web-review-week-2026-31/) (1 month ago)
 - [Web Review, Week 2026-30](https://ervin.ipsquad.net/blog/2026/07/24/web-review-week-2026-30/) (1 month ago)
 - [KDE for Enterprise Needs a Strong PIM Infrastructure](https://ervin.ipsquad.net/blog/2026/07/21/kde-for-entreprise-needs-a-strong-pim-infrastructure/) (1 month ago)
