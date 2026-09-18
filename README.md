@@ -13,12 +13,12 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (1 month ago)
 - [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (1 month ago)
 - [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (1 month ago)
-- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (3 months ago)
+- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (4 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-37](https://ervin.ipsquad.net/blog/2026/09/11/web-review-week-2026-37/) (6 days ago)
-- [Web Review, Week 2026-36](https://ervin.ipsquad.net/blog/2026/09/04/web-review-week-2026-36/) (1 week ago)
+- [Web Review, Week 2026-37](https://ervin.ipsquad.net/blog/2026/09/11/web-review-week-2026-37/) (1 week ago)
+- [Web Review, Week 2026-36](https://ervin.ipsquad.net/blog/2026/09/04/web-review-week-2026-36/) (2 weeks ago)
 - [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) (1 month ago)
 - [Web Review, Week 2026-31](https://ervin.ipsquad.net/blog/2026/07/31/web-review-week-2026-31/) (1 month ago)
 - [Web Review, Week 2026-30](https://ervin.ipsquad.net/blog/2026/07/24/web-review-week-2026-30/) (1 month ago)
