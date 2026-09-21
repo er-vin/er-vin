@@ -17,8 +17,8 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [KDE at 30: What Are the Colored Blobs Telling Us?](https://ervin.ipsquad.net/blog/2026/09/19/kde-at-30-what-are-the-colored-blobs-telling-us/) (1 day ago)
-- [Web Review, Week 2026-38 — The Graz Edition](https://ervin.ipsquad.net/blog/2026/09/18/web-review-week-2026-38/) (2 days ago)
+- [KDE at 30: What Are the Colored Blobs Telling Us?](https://ervin.ipsquad.net/blog/2026/09/19/kde-at-30-what-are-the-colored-blobs-telling-us/) (2 days ago)
+- [Web Review, Week 2026-38 — The Graz Edition](https://ervin.ipsquad.net/blog/2026/09/18/web-review-week-2026-38/) (3 days ago)
 - [Web Review, Week 2026-37](https://ervin.ipsquad.net/blog/2026/09/11/web-review-week-2026-37/) (1 week ago)
 - [Web Review, Week 2026-36](https://ervin.ipsquad.net/blog/2026/09/04/web-review-week-2026-36/) (2 weeks ago)
 - [Web Review, Week 2026-32](https://ervin.ipsquad.net/blog/2026/08/07/web-review-week-2026-32/) (1 month ago)
