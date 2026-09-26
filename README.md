@@ -12,13 +12,13 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (3 weeks ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (1 month ago)
 - [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (1 month ago)
-- [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (1 month ago)
+- [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (2 months ago)
 - [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (4 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-39](https://ervin.ipsquad.net/blog/2026/09/25/web-review-week-2026-39/) (today)
-- [KDE at 30: What Are the Colored Blobs Telling Us?](https://ervin.ipsquad.net/blog/2026/09/19/kde-at-30-what-are-the-colored-blobs-telling-us/) (6 days ago)
+- [Web Review, Week 2026-39](https://ervin.ipsquad.net/blog/2026/09/25/web-review-week-2026-39/) (1 day ago)
+- [KDE at 30: What Are the Colored Blobs Telling Us?](https://ervin.ipsquad.net/blog/2026/09/19/kde-at-30-what-are-the-colored-blobs-telling-us/) (1 week ago)
 - [Web Review, Week 2026-38 — The Graz Edition](https://ervin.ipsquad.net/blog/2026/09/18/web-review-week-2026-38/) (1 week ago)
 - [Web Review, Week 2026-37](https://ervin.ipsquad.net/blog/2026/09/11/web-review-week-2026-37/) (2 weeks ago)
 - [Web Review, Week 2026-36](https://ervin.ipsquad.net/blog/2026/09/04/web-review-week-2026-36/) (3 weeks ago)
