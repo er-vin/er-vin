@@ -9,7 +9,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 🌱 What I'm currently working on
 
-- [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (2 weeks ago)
+- [KDE/kdav](https://github.com/KDE/kdav) - DAV protocol implementation with KJobs (3 weeks ago)
 - [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (1 month ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (2 months ago)
 - [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (2 months ago)
@@ -17,7 +17,7 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) (3 days ago)
+- [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) (4 days ago)
 - [Web Review, Week 2026-42](https://ervin.ipsquad.net/blog/2026/10/16/web-review-week-2026-42/) (1 week ago)
 - [Web Review, Week 2026-41](https://ervin.ipsquad.net/blog/2026/10/09/web-review-week-2026-41/) (2 weeks ago)
 - [Web Review, Week 2026-40](https://ervin.ipsquad.net/blog/2026/10/02/web-review-week-2026-40/) (3 weeks ago)
