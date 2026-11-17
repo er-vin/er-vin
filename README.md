@@ -13,11 +13,11 @@ projects over the years inside and outside KDE. Check out my blog to find out mo
 - [KDE/akonadi-e2e-tests](https://github.com/KDE/akonadi-e2e-tests) - Test suite for end-to-end testing of Akonadi Resources against real servers. (2 months ago)
 - [KDE/kdepim-runtime](https://github.com/KDE/kdepim-runtime) - Akonadi agents and resources (3 months ago)
 - [KDE/akonadi](https://github.com/KDE/akonadi) - Cross-desktop storage service for PIM data providing concurrent access (3 months ago)
-- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (5 months ago)
+- [KDE/extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - Extra modules and scripts for CMake. (6 months ago)
 
 #### 📜 My recent blog posts
 
-- [Web Review, Week 2026-46](https://ervin.ipsquad.net/blog/2026/11/13/web-review-week-2026-46/) (3 days ago)
+- [Web Review, Week 2026-46](https://ervin.ipsquad.net/blog/2026/11/13/web-review-week-2026-46/) (4 days ago)
 - [Web Review, Week 2026-45 (double issue)](https://ervin.ipsquad.net/blog/2026/11/06/web-review-week-2026-45/) (1 week ago)
 - [Web Review, Week 2026-43](https://ervin.ipsquad.net/blog/2026/10/23/web-review-week-2026-43/) (3 weeks ago)
 - [Web Review, Week 2026-42](https://ervin.ipsquad.net/blog/2026/10/16/web-review-week-2026-42/) (1 month ago)
